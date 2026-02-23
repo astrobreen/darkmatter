@@ -131,15 +131,15 @@ These results are consistent with Sofue (2011) who found 8.87 ± 1.37 × 10¹⁰
 
 ## Method
 
-### Query methodology (§3.1.2)
+### Query methodology
 
 Gaia DR2 is queried in concentric cylindrical shells using ADQL cone queries. Each shell has a parallax interval of 20 pc and a field of view of ~280 pc radius at 8 kpc distance (4° cone half-angle), chosen to encompass the thin galactic disc scale height (~400 pc). The total cylindrical observation region extends 8 kpc in each direction along the Sgr A* line of sight. Volume error from this approach is less than 0.25%.
 
-### Coordinate transform (§3.1.3)
+### Coordinate transform
 
 Stellar positions and proper motions are transformed from ICRS (heliocentric) to Galactocentric Cartesian coordinates using Astropy, following the rotation matrix formulation of Eadie, Springford & Harris (2017). The Sun is placed at R☉ = 8300 pc, z☉ = 17 pc with circular velocity 236 km/s.
 
-### Mass estimation (§3.5)
+### Mass estimation
 
 Enclosed mass is derived from the circular velocity approximation:
 
