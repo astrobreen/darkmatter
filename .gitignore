@@ -1,0 +1,27 @@
+# Gaia data files (downloaded at runtime — do not commit)
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments (uv creates .venv by default)
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+thesis.pdf
