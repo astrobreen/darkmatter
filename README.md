@@ -1,6 +1,6 @@
 # Dark Matter in Our Galaxy
 
-**Author:** Dillon Breen (15719601) — Dublin City University, PHA4 <br />
+**Author:** Dillon Breen — Dublin City University, PHA4 <br />
 **Supervisor:** Dr. Eamonn Cunningham <br />
 **Module:** PS451 — Final Year Project (April 2019)
 
